@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-04-07 15:57+0800\n"
+"PO-Revision-Date: 2025-04-17 12:46+0800\n"
 "Last-Translator: R.Chan\n"
 "Language-Team: Ray Chan\n"
 "Language: zh_CN\n"
@@ -2227,7 +2227,7 @@ msgctxt "game_options"
 msgid "ADJUST POWERPC FREQUENCY"
 msgstr "调整 PowerPC 频率"
 
-#. TRANSLATION: amiberry, bigpemu, cemu, citra, dolphin_triforce, ...
+#. TRANSLATION: amiberry, bigpemu, cemu, dolphin_triforce, drastic, ...
 msgctxt "game_options"
 msgid "ADVANCED OPTIONS"
 msgstr "高级选项"
@@ -3177,7 +3177,11 @@ msgstr "四月"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Arabic"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "阿拉伯语"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
@@ -3243,13 +3247,6 @@ msgstr "亚美尼亚"
 msgctxt "game_options"
 msgid "Arrange the dual screen layout."
 msgstr "排列双屏布局。"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Arrange the dual screen layout. Separate windows can be changed with "
-"Hotkey+R2."
-msgstr "排列双屏布局。 使用热键+R2可以更改单独的窗口。"
 
 #. TRANSLATION: libretro/np2kai
 msgctxt "game_options"
@@ -3941,11 +3938,6 @@ msgctxt "game_options"
 msgid "Bottom (Default)"
 msgstr "底部（默认）"
 
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Bottom Only"
-msgstr "仅限底部"
-
 #. TRANSLATION: melonds
 msgctxt "game_options"
 msgid "Bottom only"
@@ -4482,7 +4474,7 @@ msgctxt "game_options"
 msgid "CONTROLLERS"
 msgstr "控制器"
 
-#. TRANSLATION: dolphin, rpcs3, shared
+#. TRANSLATION: dolphin, libretro/dice, rpcs3, shared
 msgctxt "game_options"
 msgid "CONTROLS"
 msgstr "控制"
@@ -5011,7 +5003,11 @@ msgstr "选择电视的电缆类型。"
 #. TRANSLATION: cemu, redream, shadps4
 msgctxt "game_options"
 msgid "Choose console language. Not all games may support the language choice."
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "选择控制台语言. 并非所有游戏都支持语言选择."
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjkdf2
 msgctxt "game_options"
@@ -5219,7 +5215,11 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "选择GSplus启动时使用的BIOS文件."
 
+<<<<<<< HEAD
 #. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
+=======
+#. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "选择要使用的图形API库。"
@@ -5445,13 +5445,6 @@ msgid ""
 "Compile shaders on next launch of game (one time). Reduces micro-freezes. "
 "Vulkan only."
 msgstr "在下次启动游戏时编译着色器(仅一次). 减少微冻结. 仅适用于Vulkan."
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Compile shaders using background threads to avoid shader compilation "
-"stutter. May cause graphical glitches."
-msgstr "使用后台线程编译着色器以避免着色器编译造成的卡顿，可能会导致图形故障。"
 
 #. TRANSLATION: libretro/snes9x, libretro/snes9x_next, redream
 msgctxt "game_options"
@@ -5726,6 +5719,31 @@ msgctxt "game_options"
 msgid "DIGITAL SOUND PROCESSOR"
 msgstr "数字音频处理器"
 
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "DIP SWITCH 1"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "DIP SWITCH 2"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "DIP SWITCH 3"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "DIP SWITCH HEX 1"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "DIP SWITCH HEX 2"
+msgstr ""
+
 #. TRANSLATION: mupen64plus
 msgctxt "game_options"
 msgid "DISABLE 4MB EXPANSION RAM PACK"
@@ -5755,11 +5773,6 @@ msgstr "禁用表面同步"
 msgctxt "game_options"
 msgid "DISABLE VERTEX CACHE"
 msgstr "禁用顶点缓存"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "DISK SHADER CACHE"
-msgstr "磁盘着色器缓存"
 
 #. TRANSLATION: openmsx
 msgctxt "game_options"
@@ -5976,7 +5989,11 @@ msgctxt "game_options"
 msgid "December"
 msgstr "十二月"
 
+<<<<<<< HEAD
 #. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
+=======
+#. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "默认"
@@ -6425,11 +6442,6 @@ msgctxt "game_options"
 msgid "ENABLE AI TRANSLATION SERVICE"
 msgstr "启用AI翻译服务"
 
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "ENABLE ASYNC SHADER COMPILATION"
-msgstr "启用异步着色器编译"
-
 #. TRANSLATION: rpcs3
 msgctxt "game_options"
 msgid "ENABLE AUDIO BUFFERING"
@@ -6764,7 +6776,11 @@ msgstr ""
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Enable High Dynamic Range if your display supports it."
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "如果您的显示器支持， 请启用高动态范围."
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -7160,12 +7176,20 @@ msgstr "英语（默认）"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "English (United Kingdom)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "英语（英国）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "English (United States)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "英语（美国）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -7231,7 +7255,11 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "增强, 提高渲染分辨率."
 
+<<<<<<< HEAD
 #. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
+=======
+#. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -7598,11 +7626,6 @@ msgctxt "game_options"
 msgid "FRAME DUPING (SPEED UP)"
 msgstr "帧重复（加速）"
 
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "FRAME LIMIT"
-msgstr "帧限制"
-
 #. TRANSLATION: libretro/mupen64plus-next, libretro/parallel_n64
 msgctxt "game_options"
 msgid "FRAME RATE"
@@ -7854,7 +7877,7 @@ msgstr ""
 "修复屏幕撕裂现象，自适应同步（默认设置）会根据视频同步进行同步，但对于低于目"
 "标帧率的延迟帧会立即显示."
 
-#. TRANSLATION: citra, dolphin, dolphin_triforce, duckstation, melonds, ...
+#. TRANSLATION: dolphin, dolphin_triforce, duckstation, melonds, pcsx2
 msgctxt "game_options"
 msgid "Fix screen tearing. CPU heavy."
 msgstr "修复屏幕撕裂。会增加CPU占用。"
@@ -8109,12 +8132,20 @@ msgstr "法语"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "French (Canada)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "法语（加拿大）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "French (France)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "法语（法国）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -8503,12 +8534,16 @@ msgctxt "game_options"
 msgid "GRAPHICAL USER INTERFACE"
 msgstr "图形用户界面"
 
-#. TRANSLATION: citra, iortcw, theforceengine
+#. TRANSLATION: iortcw, theforceengine
 msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "图形"
 
+<<<<<<< HEAD
 #. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
+=======
+#. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "图形API"
@@ -8832,7 +8867,11 @@ msgstr "高清纹理"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "HDR"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "HDR"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shared
 msgctxt "game_options"
@@ -9154,16 +9193,6 @@ msgctxt "game_options"
 msgid "Hybrid + Bicubic"
 msgstr "混合 + 双三次插值"
 
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Hybrid Screen Bottom"
-msgstr "混合屏幕底部"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Hybrid Screen Top"
-msgstr "混合屏幕顶部"
-
 #. TRANSLATION: dolphin, libretro/dolphin
 msgctxt "game_options"
 msgid "Hybrid Ubershaders"
@@ -9391,7 +9420,11 @@ msgstr "印度尼西亚"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Indonesian"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "印度尼西亚"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/mame, mame/pcsx2
 msgctxt "game_options"
@@ -9981,7 +10014,7 @@ msgctxt "game_options"
 msgid "LLVM is fastest, use the Interpreter settings if there are issues."
 msgstr "LLVM是最快的，如果有问题，请使用解释器设置。"
 
-#. TRANSLATION: citra, dolphin, dolphin_triforce, duckstation, libretro/mesen, ...
+#. TRANSLATION: dolphin, dolphin_triforce, duckstation, libretro/mesen, mupen64plus
 msgctxt "game_options"
 msgid "LOAD CUSTOM TEXTURES"
 msgstr "加载自定义纹理"
@@ -10000,16 +10033,6 @@ msgstr "Lynx机型"
 msgctxt "game_options"
 msgid "Landscape"
 msgstr "景观"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Large Bottom"
-msgstr "底部加大"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Large Top"
-msgstr "顶部加大"
 
 #. TRANSLATION: dolphin
 msgctxt "game_options"
@@ -10060,11 +10083,6 @@ msgstr "左磁力保护"
 msgctxt "game_options"
 msgid "Left stick"
 msgstr "左摇杆"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Left/Right"
-msgstr "左/右"
 
 #. TRANSLATION: rpcs3
 msgctxt "game_options"
@@ -10390,6 +10408,46 @@ msgstr "装载缓存"
 msgctxt "game_options"
 msgid "MOUSE AS WIIMOTE POINTER"
 msgstr "鼠标作为 WIIMOTE 指针"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 1 HORIZONTAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 1 VERTICAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 2 HORIZONTAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 2 VERTICAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 3 HORIZONTAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 3 VERTICAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 4 HORIZONTAL"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "MOUSE AXIS FOR PADDLE 4 VERTICAL"
+msgstr ""
 
 #. TRANSLATION: libretro/puae, libretro/puae2021
 msgctxt "game_options"
@@ -10930,10 +10988,50 @@ msgctxt "game_options"
 msgid "Mouse (1351)"
 msgstr "鼠标（1351）"
 
-#. TRANSLATION: 3ds.azahar.keys, 3ds.citra.keys
+#. TRANSLATION: 3ds.azahar.keys
 msgctxt "keys_files"
 msgid "Mouse Click"
 msgstr "鼠标点击"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 1, horizontal screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 1, vertical screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 2, horizontal screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 2, vertical screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 3, horizontal screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 3, vertical screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 4, horizontal screen motion."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Mouse axis for player 4, vertical screen motion."
+msgstr ""
 
 #. TRANSLATION: catacomb.keys
 msgctxt "keys_files"
@@ -10950,7 +11048,7 @@ msgctxt "keys_files"
 msgid "Move Forward, Can be use to press W"
 msgstr "向前移动，可用于按W键"
 
-#. TRANSLATION: 3ds.azahar.keys, 3ds.citra.keys
+#. TRANSLATION: 3ds.azahar.keys
 msgctxt "keys_files"
 msgid "Move Stylet Pointer"
 msgstr "移动样式表指针"
@@ -11064,11 +11162,6 @@ msgstr "网络"
 msgctxt "game_options"
 msgid "NETWORK TYPE"
 msgstr "网络类型"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "NEW 3DS MODE"
-msgstr "New 3DS模式"
 
 #. TRANSLATION: shared
 msgctxt "game_options"
@@ -11455,7 +11548,11 @@ msgstr "挪威"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Norwegian (Bokmaal)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "挪威语（博克马尔）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
@@ -11587,7 +11684,7 @@ msgctxt "game_options"
 msgid "October"
 msgstr "十月"
 
-#. TRANSLATION: cannonball, cemu, citra, dolphin, dolphin_triforce, ...
+#. TRANSLATION: cannonball, cemu, dolphin, dolphin_triforce, drastic, ...
 msgctxt "game_options"
 msgid "Off"
 msgstr "关闭"
@@ -11621,11 +11718,6 @@ msgstr "启动时关闭"
 msgctxt "game_options"
 msgid "Off is safer, On for specific games."
 msgstr "关闭更安全，对于特定游戏打开。"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Off will help some games, others will run too fast."
-msgstr "关闭将有助于某些游戏，而其他游戏则会跑得太快。"
 
 #. TRANSLATION: bigpemu
 msgctxt "game_options"
@@ -11664,7 +11756,7 @@ msgctxt "game_options"
 msgid "Oman"
 msgstr "阿曼"
 
-#. TRANSLATION: cannonball, citra, dolphin_triforce, drastic, duckstation, ...
+#. TRANSLATION: cannonball, dolphin_triforce, drastic, duckstation, easyrpg, ...
 msgctxt "game_options"
 msgid "On"
 msgstr "开启"
@@ -11816,7 +11908,7 @@ msgctxt "game_options"
 msgid "OpenGL (Compute shader)"
 msgstr "OpenGL (计算着色器)"
 
-#. TRANSLATION: citra, dolphin_triforce, flycast, gzdoom, play, ...
+#. TRANSLATION: dolphin_triforce, flycast, gzdoom, play, scummvm
 msgctxt "game_options"
 msgid "OpenGL (Default)"
 msgstr "OpenGL（默认）"
@@ -11915,6 +12007,21 @@ msgstr "仅玩家1"
 msgctxt "game_options"
 msgid "P2 only"
 msgstr "仅玩家2"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "PADDLE ANALOG STICK SENSITIVITY"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "PADDLE D-PAD SENSITIVITY"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "PADDLE MOUSE SENSITIVITY"
+msgstr ""
 
 #. TRANSLATION: libretro/atari800, libretro/puae, libretro/puae2021
 msgctxt "game_options"
@@ -12540,12 +12647,20 @@ msgstr "葡萄牙语"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Portuguese (Brazil)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "葡萄牙语（巴西）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Portuguese (Portugal)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "葡萄牙语（葡萄牙）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: dolphin
 msgctxt "game_options"
@@ -12597,7 +12712,7 @@ msgctxt "game_options"
 msgid "Prefer \"Before NMI\", change to After NMI only if needed by the game."
 msgstr "首选“NMI之前”，仅在游戏需要时更改为“NMI之后”。"
 
-#. TRANSLATION: citra, duckstation
+#. TRANSLATION: duckstation
 msgctxt "game_options"
 msgid "Preload"
 msgstr "预加载"
@@ -12606,11 +12721,6 @@ msgstr "预加载"
 msgctxt "game_options"
 msgid "Preload requires more RAM."
 msgstr "预加载需要更多的RAM。"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Preloading is impossible from ES."
-msgstr "无法从ES进行预加载。"
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -12846,7 +12956,11 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "渲染模式"
 
+<<<<<<< HEAD
 #. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
+=======
+#. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "渲染分辨率"
@@ -13021,11 +13135,6 @@ msgstr "红色"
 msgctxt "game_options"
 msgid "Reduce load time at the cost of accuracy."
 msgstr "以准确性为代价，减少加载时间。"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Reduce stutter that happens when compiling shaders."
-msgstr "减少编译着色器时发生的卡顿。"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -13242,11 +13351,6 @@ msgctxt "game_options"
 msgid "Right stick"
 msgstr "右摇杆"
 
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Right/Left"
-msgstr "右/左"
-
 #. TRANSLATION: libretro/mame, mame/pcsx2
 msgctxt "game_options"
 msgid "Robo Bitstik 2"
@@ -13436,7 +13540,7 @@ msgctxt "game_options"
 msgid "SCREEN INCLINATION"
 msgstr "屏幕倾斜度"
 
-#. TRANSLATION: citra, drastic, libretro/desmume, libretro/melonds, melonds
+#. TRANSLATION: drastic, libretro/desmume, libretro/melonds, melonds
 msgctxt "game_options"
 msgid "SCREEN LAYOUT"
 msgstr "屏幕布局"
@@ -13624,7 +13728,11 @@ msgstr "SIO加速度"
 #. TRANSLATION: ppsspp
 msgctxt "game_options"
 msgid "SKIP BUFFER EFFECTS"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "跳过缓冲区效果"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
@@ -14107,10 +14215,30 @@ msgctxt "game_options"
 msgid "Selfie"
 msgstr "自拍"
 
-#. TRANSLATION: citra
+#. TRANSLATION: libretro/dice
 msgctxt "game_options"
-msgid "Separate Windows"
-msgstr "单独窗口"
+msgid "Sensitivity when using D-pad for a paddle."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Sensitivity when using D-pad or analog stick for a throttle."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Sensitivity when using D-pad or analog stick for a wheel."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Sensitivity when using analog stick for a paddle."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Sensitivity when using mouse for a paddle."
+msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -14253,6 +14381,31 @@ msgstr "设置渲染时的缩放器过滤模式。"
 msgctxt "game_options"
 msgid "Sets the window size to an integer size."
 msgstr "仅以整数倍增加图像大小。"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Setting for 16-position DIP switch number 1."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Setting for 16-position DIP switch number 2."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Setting for DIP switch 1."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Setting for DIP switch 2."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Setting for DIP switch 3."
+msgstr ""
 
 #. TRANSLATION: libretro/mrboom
 msgctxt "game_options"
@@ -14534,7 +14687,11 @@ msgctxt "game_options"
 msgid ""
 "Skip buffer effects disables auto frameskip and renders at display output "
 "resolution."
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "跳过缓冲区效果禁用自动跳帧, 并以显示输出分辨率渲染."
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: iortcw.keys, theforceengine.keys
 msgctxt "keys_files"
@@ -14714,7 +14871,7 @@ msgctxt "game_options"
 msgid "Soften the hash sound effect from some games."
 msgstr "软化某些游戏的哈希音效。"
 
-#. TRANSLATION: citra, duckstation, libretro/melondsds, melonds, pcsx2, ...
+#. TRANSLATION: duckstation, libretro/melondsds, melonds, pcsx2, scummvm, ...
 msgctxt "game_options"
 msgid "Software"
 msgstr "软件"
@@ -14823,12 +14980,20 @@ msgstr "西班牙语"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Spanish (Latin America)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "西班牙语（拉丁美洲）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Spanish (Spain)"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "西班牙语（西班牙）"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -15400,6 +15565,11 @@ msgctxt "game_options"
 msgid "THREADED VIDEO"
 msgstr "线程视频"
 
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "THROTTLE SENSITIVITY"
+msgstr ""
+
 #. TRANSLATION: libretro/mame, mame/pcsx2
 msgctxt "game_options"
 msgid "TI-99/4A Cartridges"
@@ -15538,17 +15708,16 @@ msgstr "Tandy Radio Shack彩色计算机磁盘映像"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Thai"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "泰语"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
 msgid "Thailand"
 msgstr "泰国"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "The New 3DS has a faster processor, ZL/ZR buttons and a C-stick."
-msgstr "New 3DS有更快的处理器、ZL/ZR按钮和一个C摇杆。"
 
 #. TRANSLATION: mupen64plus
 msgctxt "game_options"
@@ -15713,11 +15882,6 @@ msgstr "截图屏幕布局"
 msgctxt "game_options"
 msgid "Top"
 msgstr "顶部"
-
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Top Only"
-msgstr "仅限顶部"
 
 #. TRANSLATION: melonds
 msgctxt "game_options"
@@ -15995,6 +16159,31 @@ msgstr "使用手柄的南按钮来增加积分"
 msgctxt "game_options"
 msgid "USE LIGHT GUNS"
 msgstr "使用光枪"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "USE MOUSE FOR PADDLE 1"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "USE MOUSE FOR PADDLE 2"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "USE MOUSE FOR PADDLE 3"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "USE MOUSE FOR PADDLE 4"
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "USE MOUSE POINTER FOR PADDLE 1"
+msgstr ""
 
 #. TRANSLATION: corsixth
 msgctxt "game_options"
@@ -16346,6 +16535,26 @@ msgctxt "game_options"
 msgid "Use a custom MAME config, do not overwrite config on launch."
 msgstr "使用自定义MAME配置文件，不在启动时覆盖默认配置。"
 
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Use a specific mouse for Paddle 1, chosen by Port 1's Mouse Index."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Use a specific mouse for Paddle 2, chosen by Port 2's Mouse Index."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Use a specific mouse for Paddle 3, chosen by Port 3's Mouse Index."
+msgstr ""
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Use a specific mouse for Paddle 4, chosen by Port 4's Mouse Index."
+msgstr ""
+
 #. TRANSLATION: libretro/atari800
 msgctxt "game_options"
 msgid "Use an alternate resolution. Some games need this."
@@ -16400,6 +16609,13 @@ msgid ""
 "Use the same art paths as standalone MAME - not recommended if using "
 "decorations or shaders."
 msgstr "使用与独立MAME相同的艺术路径 - 如果使用装饰或着色器，则不建议使用。"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid ""
+"Use the system mouse pointer as paddle controller 1.  Does not let you "
+"choose a specific mouse if you have several."
+msgstr ""
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -16629,7 +16845,11 @@ msgctxt "game_options"
 msgid "VOICE"
 msgstr "语音"
 
+<<<<<<< HEAD
 #. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
+=======
+#. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "垂直同步"
@@ -16722,7 +16942,11 @@ msgstr "越南"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Vietnamese"
+<<<<<<< HEAD
 msgstr ""
+=======
+msgstr "越南语"
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -16749,7 +16973,11 @@ msgctxt "game_options"
 msgid "Vsync"
 msgstr "垂直同步"
 
+<<<<<<< HEAD
 #. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
+=======
+#. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
+>>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"
@@ -16823,6 +17051,11 @@ msgstr "方向盘类型"
 msgctxt "game_options"
 msgid "WHEEL ROTATION"
 msgstr "方向盘旋转"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "WHEEL SENSITIVITY"
+msgstr ""
 
 #. TRANSLATION: pcsx2, shared
 msgctxt "game_options"
@@ -17032,6 +17265,11 @@ msgid ""
 "graphics."
 msgstr "将深度缓冲区值写入VM内存. 有些游戏需要这个来修复损坏的图形."
 
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "X"
+msgstr ""
+
 #. TRANSLATION: model2emu
 msgctxt "game_options"
 msgid "X-INPUT"
@@ -17051,6 +17289,11 @@ msgstr "已启用XBLA许可证（默认）"
 msgctxt "game_options"
 msgid "XBOX LIVE ARCADE"
 msgstr "XBOX LIVE ARCADE"
+
+#. TRANSLATION: libretro/dice
+msgctxt "game_options"
+msgid "Y"
+msgstr ""
 
 #. TRANSLATION: libretro/vice_x128, libretro/vice_xpet, libretro/vice_xplus4, libretro/vice_xvic
 msgctxt "game_options"
@@ -17745,8 +17988,18 @@ msgstr "黄色/蓝色"
 #~ msgstr "模拟摇杆2 上"
 
 #~ msgctxt "game_options"
+#~ msgid ""
+#~ "Arrange the dual screen layout. Separate windows can be changed with "
+#~ "Hotkey+R2."
+#~ msgstr "排列双屏布局。 使用热键+R2可以更改单独的窗口。"
+
+#~ msgctxt "game_options"
 #~ msgid "Backglass disabled"
 #~ msgstr "禁用背景玻璃"
+
+#~ msgctxt "game_options"
+#~ msgid "Bottom Only"
+#~ msgstr "仅限底部"
 
 #~ msgctxt "keys_files"
 #~ msgid "Bring up menu"
@@ -17782,6 +18035,13 @@ msgstr "黄色/蓝色"
 #~ "Compile shaders on next launch of game (one time). Reduces micro-freezes."
 #~ msgstr "在下次启动游戏时编译着色器（仅限一次）。可以减少细微卡顿。"
 
+#~ msgctxt "game_options"
+#~ msgid ""
+#~ "Compile shaders using background threads to avoid shader compilation "
+#~ "stutter. May cause graphical glitches."
+#~ msgstr ""
+#~ "使用后台线程编译着色器以避免着色器编译造成的卡顿，可能会导致图形故障。"
+
 #~ msgctxt "keys_files"
 #~ msgid "Configuration menu"
 #~ msgstr "配置菜单"
@@ -17797,6 +18057,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "keys_files"
 #~ msgid "Cycle previous"
 #~ msgstr "循环至上一项"
+
+#~ msgctxt "game_options"
+#~ msgid "DISK SHADER CACHE"
+#~ msgstr "磁盘着色器缓存"
 
 #~ msgctxt "keys_files"
 #~ msgid "Digital Down"
@@ -17825,6 +18089,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "keys_files"
 #~ msgid "Display the controller screen"
 #~ msgstr "显示控制器屏幕"
+
+#~ msgctxt "game_options"
+#~ msgid "ENABLE ASYNC SHADER COMPILATION"
+#~ msgstr "启用异步着色器编译"
 
 #~ msgctxt "game_options"
 #~ msgid "ENABLE BILINEAR FILTER"
@@ -17907,6 +18175,10 @@ msgstr "黄色/蓝色"
 #~ msgstr "退出模拟器"
 
 #~ msgctxt "game_options"
+#~ msgid "FRAME LIMIT"
+#~ msgstr "帧限制"
+
+#~ msgctxt "game_options"
 #~ msgid "FRAMERATE"
 #~ msgstr "帧速率"
 
@@ -17970,6 +18242,22 @@ msgstr "黄色/蓝色"
 #~ "your processor."
 #~ msgstr "《死亡之屋 4》速度修正。将游戏设置为您的处理器的 CPU 基准频率."
 
+#~ msgctxt "game_options"
+#~ msgid "Hybrid Screen Bottom"
+#~ msgstr "混合屏幕底部"
+
+#~ msgctxt "game_options"
+#~ msgid "Hybrid Screen Top"
+#~ msgstr "混合屏幕顶部"
+
+#~ msgctxt "game_options"
+#~ msgid "Large Bottom"
+#~ msgstr "底部加大"
+
+#~ msgctxt "game_options"
+#~ msgid "Large Top"
+#~ msgstr "顶部加大"
+
 #~ msgctxt "keys_files"
 #~ msgid "Left Flipper"
 #~ msgstr "左翻转器"
@@ -17985,6 +18273,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "keys_files"
 #~ msgid "Left Nudge"
 #~ msgstr "左推"
+
+#~ msgctxt "game_options"
+#~ msgid "Left/Right"
+#~ msgstr "左/右"
 
 #~ msgctxt "keys_files"
 #~ msgid "Load State"
@@ -18026,6 +18318,10 @@ msgstr "黄色/蓝色"
 #~ msgid "N64 (Limited Hotkeys)"
 #~ msgstr "N64（有限热键）"
 
+#~ msgctxt "game_options"
+#~ msgid "NEW 3DS MODE"
+#~ msgstr "New 3DS模式"
+
 #~ msgctxt "keys_files"
 #~ msgid "Next Disc (m3u)"
 #~ msgstr "下一个光盘（m3u）"
@@ -18037,6 +18333,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "game_options"
 #~ msgid "Off (default)"
 #~ msgstr "关闭（默认）"
+
+#~ msgctxt "game_options"
+#~ msgid "Off will help some games, others will run too fast."
+#~ msgstr "关闭将有助于某些游戏，而其他游戏则会跑得太快。"
 
 #~ msgctxt "keys_files"
 #~ msgid "Open Dolphin-triforce's menu"
@@ -18110,6 +18410,10 @@ msgstr "黄色/蓝色"
 #~ msgid "Plunger"
 #~ msgstr "撞针杆"
 
+#~ msgctxt "game_options"
+#~ msgid "Preloading is impossible from ES."
+#~ msgstr "无法从ES进行预加载。"
+
 #~ msgctxt "keys_files"
 #~ msgid "Press N for Novice"
 #~ msgstr "按N键选择新手模式"
@@ -18174,6 +18478,10 @@ msgstr "黄色/蓝色"
 #~ msgid "Quits the current level"
 #~ msgstr "退出当前关卡"
 
+#~ msgctxt "game_options"
+#~ msgid "Reduce stutter that happens when compiling shaders."
+#~ msgstr "减少编译着色器时发生的卡顿。"
+
 #~ msgctxt "keys_files"
 #~ msgid "Reset the application"
 #~ msgstr "重置应用程序"
@@ -18207,6 +18515,10 @@ msgstr "黄色/蓝色"
 #~ msgstr "右推"
 
 #~ msgctxt "game_options"
+#~ msgid "Right/Left"
+#~ msgstr "右/左"
+
+#~ msgctxt "game_options"
 #~ msgid ""
 #~ "Runners simplify compatibility of running Windows games. If choosing "
 #~ "Custom, you must have a runner in /userdata/system/wine/custom."
@@ -18225,6 +18537,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "keys_files"
 #~ msgid "Save State Slot 1"
 #~ msgstr "保存状态插槽1"
+
+#~ msgctxt "game_options"
+#~ msgid "Separate Windows"
+#~ msgstr "单独窗口"
 
 #~ msgctxt "keys_files"
 #~ msgid "Service menu"
@@ -18281,6 +18597,10 @@ msgstr "黄色/蓝色"
 #~ msgstr "截屏"
 
 #~ msgctxt "game_options"
+#~ msgid "The New 3DS has a faster processor, ZL/ZR buttons and a C-stick."
+#~ msgstr "New 3DS有更快的处理器、ZL/ZR按钮和一个C摇杆。"
+
+#~ msgctxt "game_options"
 #~ msgid ""
 #~ "This option enables the ability to play Xbox Live Arcacde games. May "
 #~ "cause compatibility issues with non-XBLA games."
@@ -18298,6 +18618,10 @@ msgstr "黄色/蓝色"
 #~ msgctxt "keys_files"
 #~ msgid "Toggle Speed Limit"
 #~ msgstr "切换速度限制"
+
+#~ msgctxt "game_options"
+#~ msgid "Top Only"
+#~ msgstr "仅限顶部"
 
 #~ msgctxt "game_options"
 #~ msgid ""
