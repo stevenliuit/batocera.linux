@@ -1,0 +1,2 @@
+the input device is not a TTY
+make: *** [Makefile:129: rk3568-clean] Error 1

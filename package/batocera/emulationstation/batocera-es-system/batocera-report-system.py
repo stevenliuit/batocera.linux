@@ -179,7 +179,8 @@ class EsSystemConf:
             emulators_result[emulator] = result_cores
 
         if nb_variants > 0 and defaultFound == False:
-            raise Exception("default core ({}/{}) not enabled for {}/{}" . format(defaultEmulator, defaultCore, arch, system))
+           # raise Exception("default core ({}/{}) not enabled for {}/{}" . format(defaultEmulator, defaultCore, arch, system))
+           print("[WARN] default core ({}/{}) not enabled for {}/{}" .format(defaultEmulator, defaultCore, arch, system))
 
         result = {}
         result["name"] = data["name"]

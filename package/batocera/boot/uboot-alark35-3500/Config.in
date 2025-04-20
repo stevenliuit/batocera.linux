@@ -1,0 +1,4 @@
+config BR2_PACKAGE_UBOOT_ALARK35_3500
+    bool "uboot files for HardKernel ALARK35 3500"
+    help
+        uboot files for ALARK35 3500
