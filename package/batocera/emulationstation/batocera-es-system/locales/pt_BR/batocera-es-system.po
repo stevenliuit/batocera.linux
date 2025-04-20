@@ -3264,18 +3264,6 @@ msgctxt "game_options"
 msgid "Arrange the dual screen layout."
 msgstr "Organiza a disposicao de tela dupla."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Arrange the dual screen layout. Separate windows can be changed with "
-"Hotkey+R2."
-msgstr ""
-"Organize a disposicao da tela dupla. Janelas separadas podem ser alteradas "
-"com a tecla de atalho (hotkey) + R2."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: libretro/np2kai
 msgctxt "game_options"
 msgid "Arrows"
@@ -5282,11 +5270,7 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "Escolha qual arquivo de BIOS para GSplus deve ser usado para o boot."
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "Escolha qual biblioteca API grafica usar."
@@ -5523,19 +5507,6 @@ msgstr ""
 "Compila shaders no proximo lancamento do jogo (uma vez). Reduz "
 "microcongelamentos. Somente Vulkan."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Compile shaders using background threads to avoid shader compilation "
-"stutter. May cause graphical glitches."
-msgstr ""
-"Compila sombreamentos usando encadeamento em segundo plano para evitar "
-"falhas e gagueira na compilacao de sombreamentos. Pode causar falhas "
-"graficas."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: libretro/snes9x, libretro/snes9x_next, redream
 msgctxt "game_options"
 msgid "Composite"
@@ -6090,11 +6061,7 @@ msgctxt "game_options"
 msgid "December"
 msgstr "Dezembro"
 
-<<<<<<< HEAD
-#. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
-=======
 #. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "Padrao"
@@ -7418,11 +7385,7 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "Aprimoramento. Aumente a resolucao de renderizacao."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -8736,11 +8699,7 @@ msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "GRAFICOS"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "API GRAFICA"
@@ -13229,11 +13188,7 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "MODO DE RENDERIZACAO"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "RESOLUCAO DE RENDERIZACAO"
@@ -17206,11 +17161,7 @@ msgctxt "game_options"
 msgid "VOICE"
 msgstr ""
 
-<<<<<<< HEAD
-#. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
-=======
 #. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "SINCRONIZACAO VERTICAL"
@@ -17332,11 +17283,7 @@ msgctxt "game_options"
 msgid "Vsync"
 msgstr "Sincronizacao Vertical (Vsync)"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"
@@ -18846,8 +18793,6 @@ msgstr "amarelo/azul"
 #~ msgstr ""
 #~ "Compila os sombreamentos na proxima inicializacao do jogo (uma vez). "
 #~ "Reduz micro-congelamentos."
-<<<<<<< HEAD
-=======
 
 #~ msgctxt "game_options"
 #~ msgid ""
@@ -18857,7 +18802,6 @@ msgstr "amarelo/azul"
 #~ "Compila sombreamentos usando encadeamento em segundo plano para evitar "
 #~ "falhas e gagueira na compilacao de sombreamentos. Pode causar falhas "
 #~ "graficas."
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #~ msgctxt "keys_files"
 #~ msgid "Configuration menu"

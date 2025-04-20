@@ -5263,11 +5263,7 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "Escolha com que ficheiro BIOS o GSplus irá arrancar."
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "Escolha qual biblioteca API gráfica usar."
@@ -6057,11 +6053,7 @@ msgctxt "game_options"
 msgid "December"
 msgstr "Dezembro"
 
-<<<<<<< HEAD
-#. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
-=======
 #. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "Predefinição"
@@ -7375,11 +7367,7 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "Melhoria. Aumente a resolução de renderização."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -8685,11 +8673,7 @@ msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "GRÁFICOS"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "API GRÁFICA"
@@ -13173,11 +13157,7 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "MODO DE RENDERIZAÇÃO"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "RESOLUÇÃO DA RENDERIZAÇÃO"
@@ -17140,11 +17120,7 @@ msgctxt "game_options"
 msgid "VOICE"
 msgstr "VOZ"
 
-<<<<<<< HEAD
-#. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
-=======
 #. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "VSYNC"
@@ -17264,11 +17240,7 @@ msgctxt "game_options"
 msgid "Vsync"
 msgstr "Vsync"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"
@@ -18150,12 +18122,6 @@ msgid "yellow/blue"
 msgstr "amarelo/azul"
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-#~ msgid "Choose the Dreamcast console language."
-#~ msgstr "Escolha o idioma da consola Dreamcast."
-
-#~ msgctxt "game_options"
-=======
 #~ msgid ""
 #~ "Arrange the dual screen layout. Separate windows can be changed with "
 #~ "Hotkey+R2."
@@ -18216,13 +18182,10 @@ msgstr "amarelo/azul"
 #~ msgstr "MODO NOVO 3DS"
 
 #~ msgctxt "game_options"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #~ msgid "Not all games support all languages."
 #~ msgstr "Nem todos os jogos suportam todos os idiomas."
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-=======
 #~ msgid "Off will help some games, others will run too fast."
 #~ msgstr "Desligado ajudará alguns jogos, outros serão demasiado rápidos."
 
@@ -18243,15 +18206,12 @@ msgstr "amarelo/azul"
 #~ msgstr "Janelas Separadas"
 
 #~ msgctxt "game_options"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #~ msgid ""
 #~ "Skip buffer disables auto frameskip and renders at display output "
 #~ "resolution."
 #~ msgstr ""
 #~ "Saltar memória temporária desativa o salto de frames automático e "
 #~ "renderiza na resolução de saída de ecrã."
-<<<<<<< HEAD
-=======
 
 #~ msgctxt "game_options"
 #~ msgid "The New 3DS has a faster processor, ZL/ZR buttons and a C-stick."
@@ -18261,4 +18221,3 @@ msgstr "amarelo/azul"
 #~ msgctxt "game_options"
 #~ msgid "Top Only"
 #~ msgstr "Somente Superior"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6

@@ -3267,18 +3267,6 @@ msgctxt "game_options"
 msgid "Arrange the dual screen layout."
 msgstr "Organiza o deseño da pantalla dual."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Arrange the dual screen layout. Separate windows can be changed with "
-"Hotkey+R2."
-msgstr ""
-"Organiza o deseño da pantalla dual. As fiestras separadas pódense cambiar "
-"con tecla Atallo+R2."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: libretro/np2kai
 msgctxt "game_options"
 msgid "Arrows"
@@ -5287,11 +5275,7 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "Escolle o ficheiro BIOS co que iniciar GSplus."
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "Escolla a biblioteca de gráficos da API que quere usar."
@@ -5529,18 +5513,6 @@ msgstr ""
 "Compila sombreadores no próximo lanzamento do xogo (unha vez). Reduce as "
 "microconxelacións.Só Vulkan."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Compile shaders using background threads to avoid shader compilation "
-"stutter. May cause graphical glitches."
-msgstr ""
-"Compila os sombreadores usando fíos en segundo plano para evitar os "
-"pestanexos na compilación de sombreadores. Pode provocar fallos gráficos."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: libretro/snes9x, libretro/snes9x_next, redream
 msgctxt "game_options"
 msgid "Composite"
@@ -6094,11 +6066,7 @@ msgctxt "game_options"
 msgid "December"
 msgstr "Decembro"
 
-<<<<<<< HEAD
-#. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
-=======
 #. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "Predeterminado"
@@ -7418,11 +7386,7 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "Mellora. Aumentar a resolución de renderizado."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -8733,11 +8697,7 @@ msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "GRÁFICOS"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "API GRÁFICA"
@@ -11956,15 +11916,6 @@ msgctxt "game_options"
 msgid "Off is safer, On for specific games."
 msgstr "Desactivado é máis seguro, Activado para xogos específicos."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid "Off will help some games, others will run too fast."
-msgstr ""
-"Desactivado axudará a algúns xogos, outros funcionarán demasiado rápido."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: bigpemu
 msgctxt "game_options"
 msgid ""
@@ -13222,11 +13173,7 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "MODO DE RENDERIZADO"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "RESOLUCIÓN DE RENDERIZADO"
@@ -17197,11 +17144,7 @@ msgctxt "game_options"
 msgid "VOICE"
 msgstr "VOZ"
 
-<<<<<<< HEAD
-#. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
-=======
 #. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "VSYNC"
@@ -17321,11 +17264,7 @@ msgctxt "game_options"
 msgid "Vsync"
 msgstr "Vsync"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"

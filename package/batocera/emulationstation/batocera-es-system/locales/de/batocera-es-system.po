@@ -5271,11 +5271,7 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "Wähle die BIOS-Datei, mit der das GSplus booten soll."
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "Grafik-API Bibliothek zur Verwendung auswählen."
@@ -5510,18 +5506,6 @@ msgstr ""
 "Kompiliert Shader beim nächsten Start des Spiels (einmalig). Verringert "
 "Micro-Freezes. Nur Vulkan."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra
-msgctxt "game_options"
-msgid ""
-"Compile shaders using background threads to avoid shader compilation "
-"stutter. May cause graphical glitches."
-msgstr ""
-"Kompilieren Sie Shader mithilfe von Hintergrundthreads, um Stottern bei der "
-"Shader-Kompilierung zu vermeiden. Kann zu Grafikfehlern führen."
-
-=======
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #. TRANSLATION: libretro/snes9x, libretro/snes9x_next, redream
 msgctxt "game_options"
 msgid "Composite"
@@ -6074,11 +6058,7 @@ msgctxt "game_options"
 msgid "December"
 msgstr "Dezember"
 
-<<<<<<< HEAD
-#. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
-=======
 #. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "Standard"
@@ -7414,11 +7394,7 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "Enhancement. Rendering-Auflösung erhöhen."
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -8739,11 +8715,7 @@ msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "GRAFIK"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "GRAFIK-API"
@@ -13249,11 +13221,7 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "RENDERING MODUS"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "RENDERING-AUFLÖSUNG"
@@ -17248,11 +17216,7 @@ msgctxt "game_options"
 msgid "VOICE"
 msgstr "STIMME"
 
-<<<<<<< HEAD
-#. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
-=======
 #. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "VSYNC"
@@ -17372,11 +17336,7 @@ msgctxt "game_options"
 msgid "Vsync"
 msgstr "VSync"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"
@@ -18260,8 +18220,6 @@ msgid "yellow/blue"
 msgstr "gelb/blau"
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-=======
 #~ msgid ""
 #~ "Arrange the dual screen layout. Separate windows can be changed with "
 #~ "Hotkey+R2."
@@ -18274,13 +18232,10 @@ msgstr "gelb/blau"
 #~ msgstr "Nur Unten"
 
 #~ msgctxt "game_options"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #~ msgid "Choose the Dreamcast console language."
 #~ msgstr "Sprache für Dreamcast Konsole auswählen."
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-=======
 #~ msgid ""
 #~ "Compile shaders using background threads to avoid shader compilation "
 #~ "stutter. May cause graphical glitches."
@@ -18325,13 +18280,10 @@ msgstr "gelb/blau"
 #~ msgstr "NEUER 3DS MODUS"
 
 #~ msgctxt "game_options"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #~ msgid "Not all games support all languages."
 #~ msgstr "Nicht alle Spiele unterstützen jede Sprache."
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-=======
 #~ msgid "Off will help some games, others will run too fast."
 #~ msgstr ""
 #~ "Deaktivierung hilft bei einigen Spielen, andere laufen dennoch zu schnell."
@@ -18353,15 +18305,12 @@ msgstr "gelb/blau"
 #~ msgstr "Getrennte Fenster"
 
 #~ msgctxt "game_options"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 #~ msgid ""
 #~ "Skip buffer disables auto frameskip and renders at display output "
 #~ "resolution."
 #~ msgstr ""
 #~ "Das Überspringen von Zwischenspeicher-Effekten deaktiviert AUTO "
 #~ "FRAMESKIP, das Rendern erfolgt in Größe der Anzeigeauflösung."
-<<<<<<< HEAD
-=======
 
 #~ msgctxt "game_options"
 #~ msgid "The New 3DS has a faster processor, ZL/ZR buttons and a C-stick."
@@ -18372,4 +18321,3 @@ msgstr "gelb/blau"
 #~ msgctxt "game_options"
 #~ msgid "Top Only"
 #~ msgstr "Nur Oben"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6

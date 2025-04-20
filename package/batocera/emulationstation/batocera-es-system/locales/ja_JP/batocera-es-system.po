@@ -621,11 +621,7 @@ msgstr "16 bit"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "16-bit"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "16 bit"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjazz
 msgctxt "game_options"
@@ -760,11 +756,7 @@ msgstr "1MB"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "1ST PERSON GUNS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "一人称視点の銃"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: tsugaru
 msgctxt "game_options"
@@ -1284,11 +1276,7 @@ msgstr "32 MHz（オーバークロック）"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "32-bit"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "32 bit"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjazz
 msgctxt "game_options"
@@ -1403,11 +1391,7 @@ msgstr "3"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "3rd Person"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "三人称"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: citron, ryujinx
 msgctxt "game_options"
@@ -2347,11 +2331,7 @@ msgstr "異方性フィルタリング"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "ANISTROPIC FILTER"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "異方性フィルター"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: dolphin, dolphin_triforce, iortcw, rpcs3
 msgctxt "game_options"
@@ -2880,11 +2860,7 @@ msgstr "アルジェリア"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "All + Enemy Jedi Dodge"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "全員 + 敵ジェダイ回避"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/mesen
 msgctxt "game_options"
@@ -2914,11 +2890,7 @@ msgstr "すべて (非推奨)"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "All voiceovers"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "すべてのナレーション"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro
 msgctxt "game_options"
@@ -2982,11 +2954,7 @@ msgstr "Alone in the Dark(アローン・イン・ザ・ダーク)"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Alt. Attack"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "代替攻撃"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -3215,11 +3183,7 @@ msgstr "4月"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Arabic"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "アラビア語"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
@@ -3736,11 +3700,7 @@ msgstr "戻る / メニュー"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Backpedal"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "バックペダル"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
@@ -5061,11 +5021,8 @@ msgstr "テレビのケーブル接続タイプを選択します"
 msgctxt "game_options"
 msgid "Choose console language. Not all games may support the language choice."
 msgstr ""
-<<<<<<< HEAD
-=======
 "ゲーム機の言語を選択してください。すべてのゲームが言語選択をサポートしている"
 "わけではありません。"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjkdf2
 msgctxt "game_options"
@@ -5100,20 +5057,12 @@ msgstr "コントローラの2つ目の機能パックを選択します"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose shadow details."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "影のディテールを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose slow motion death option."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "スローモーション死のオプションを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/kronos
 msgctxt "game_options"
@@ -5123,11 +5072,7 @@ msgstr "システムBIOS 言語を選択します"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose text language."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テキスト言語を選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/flycast, redream
 msgctxt "game_options"
@@ -5181,11 +5126,7 @@ msgstr ""
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose the depth of texture quality."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャ品質の深さを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/cap32, openjk
 msgctxt "game_options"
@@ -5200,20 +5141,12 @@ msgstr "ゲーム難易度を選択します"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose the level of geometric detail."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ジオメトリックディテールのレベルを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose the level of texture detail."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャディテールレベルを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
 msgctxt "game_options"
@@ -5233,11 +5166,7 @@ msgstr "ヘッドアップディスプレイのサイズを選択します"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose the texture filter type."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャフィルターの種類を選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
@@ -5281,20 +5210,12 @@ msgstr "アップスケーリング方法を選択します"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose voice language."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "音声言語を選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Choose when to enable subtitles."
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "字幕をいつ有効にするかを選択します"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: citron
 msgctxt "game_options"
@@ -5315,11 +5236,7 @@ msgctxt "game_options"
 msgid "Choose which BIOS file for GSplus to boot with."
 msgstr "GSplusが起動するBIOSファイルを選択します"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Choose which graphics API library to use."
 msgstr "使用するグラフィック API を選択します"
@@ -5806,11 +5723,7 @@ msgstr "デスクトップ"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "DETAILED SHADERS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "詳細なシェーダー"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: sonic2013, soniccd
 msgctxt "game_options"
@@ -5980,11 +5893,7 @@ msgstr "ダウンスケール フィルター"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "DRAW CROSSHAIR"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "クロスヘア(照準)を描く"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/melondsds, melonds
 msgctxt "game_options"
@@ -6039,20 +5948,12 @@ msgstr "DXVKのキャッシュをリセット"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "DYNAMIC GLOW"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ダイナミックグロー"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "DYNAMIC LIGHTS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ダイナミックライト"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: moonlight
 msgctxt "game_options"
@@ -6114,11 +6015,7 @@ msgctxt "game_options"
 msgid "December"
 msgstr "12月"
 
-<<<<<<< HEAD
-#. TRANSLATION: citron, libretro/flycast, libretro/mesen, libretro/puae, libretro/puae2021, ...
-=======
 #. TRANSLATION: citron, libretro/dice, libretro/flycast, libretro/mesen, libretro/puae, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Default"
 msgstr "標準値"
@@ -6419,11 +6316,7 @@ msgstr "下"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Down/Crouch"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "下/しゃがむ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: flycast/dolphin, libretro/flycast
 msgctxt "game_options"
@@ -6920,11 +6813,8 @@ msgstr ""
 msgctxt "game_options"
 msgid "Enable High Dynamic Range if your display supports it."
 msgstr ""
-<<<<<<< HEAD
-=======
 "ディスプレイがハイダイナミックレンジに対応している場合は、有効にしてくださ"
 "い。"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -7349,20 +7239,12 @@ msgstr "英語 (標準)"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "English (United Kingdom)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "英語 (イギリス)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "English (United States)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "英語 (アメリカ)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -7432,11 +7314,7 @@ msgctxt "game_options"
 msgid "Enhancement. Increase the rendering resolution."
 msgstr "強化：レンダリング解像度を上げます"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid ""
 "Enhancement. Increase the rendering resolution. Makes 3D objects clearer."
@@ -8331,20 +8209,12 @@ msgstr "フランス語"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "French (Canada)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "フランス語 (カナダ)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "French (France)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "フランス語 (フランス)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -8679,11 +8549,7 @@ msgstr "一般"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "GEOMETRIC DETAIL"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ジオメトリックディテール"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro
 msgctxt "game_options"
@@ -8745,11 +8611,7 @@ msgctxt "game_options"
 msgid "GRAPHICS"
 msgstr "グラフィック 設定"
 
-<<<<<<< HEAD
-#. TRANSLATION: cemu, citra, citron, dolphin, dolphin_triforce, ...
-=======
 #. TRANSLATION: cemu, citron, dolphin, dolphin_triforce, duckstation, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "GRAPHICS API"
 msgstr "グラフィック API"
@@ -9074,11 +8936,7 @@ msgstr "HD テクスチャ"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "HDR"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "HDR(ハイダイナミックレンジ)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shared
 msgctxt "game_options"
@@ -9423,11 +9281,7 @@ msgstr "IDE (標準)"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "IDENTIFY TARGET"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "目標特定"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: x16emu
 msgctxt "game_options"
@@ -9595,11 +9449,7 @@ msgstr "遅いデバイスの動作が向上しますが、グリッチが起こ
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "In Cinematics"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "映像において"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro
 msgctxt "game_options"
@@ -9642,11 +9492,7 @@ msgstr "インドネシア"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Indonesian"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "インドネシア語"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/mame, mame/pcsx2
 msgctxt "game_options"
@@ -10176,11 +10022,7 @@ msgstr "LCDゴースト（高速）"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "LIGHT FLARES"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ライトフレア"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: duckstation, flycast, hypseus-singe/uzem, libretro/beetle-saturn, libretro/fbneo, ...
 msgctxt "game_options"
@@ -10623,11 +10465,7 @@ msgstr "モデル"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "MODEL DISMEMBERMENT"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "分解モデル"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/vice_x128, libretro/vice_x64, libretro/vice_x64sc, libretro/vice_xpet, libretro/vice_xplus4, ...
 msgctxt "game_options"
@@ -11799,11 +11637,7 @@ msgstr "ノルウェイ語"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Norwegian (Bokmaal)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ノルウェイ語（ブークマール）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/hatarib
 msgctxt "game_options"
@@ -12787,11 +12621,7 @@ msgstr "PS マウス"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Player"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "プレーヤー"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -12806,38 +12636,22 @@ msgstr "画面下端からプレイヤーの目の距離 (cm)"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Player, Any Enemy"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "敵味方問わず"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Player, Any Enemy Jedi"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "プレイヤー、任意の敵ジェダイ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Player, Last Enemy Jedi"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "プレイヤー、最後の敵ジェダイ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Player, Last Enemy in Group"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "プレイヤー、グループ最後の敵"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -12927,20 +12741,12 @@ msgstr "ポルトガル語"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Portuguese (Brazil)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ポルトガル語（ブラジル）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Portuguese (Portugal)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ポルトガル語（ポルトガル）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: dolphin
 msgctxt "game_options"
@@ -13240,11 +13046,7 @@ msgctxt "game_options"
 msgid "RENDERING MODE"
 msgstr "レンダリングモード"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, libretro/desmume, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "RENDERING RESOLUTION"
 msgstr "レンダリング解像度"
@@ -13733,11 +13535,7 @@ msgstr "テスト モードでゲームを実行して、特定のゲーム オ�
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Run/Walk"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "走る/歩く"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: wine
 msgctxt "game_options"
@@ -13946,11 +13744,7 @@ msgstr "シェーダー設定"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "SHADOWS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "陰影"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/mame, libretro/mamevirtual
 msgctxt "game_options"
@@ -14025,11 +13819,7 @@ msgstr "SIO アクセラレーション"
 #. TRANSLATION: ppsspp
 msgctxt "game_options"
 msgid "SKIP BUFFER EFFECTS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "バッファエフェクトを省く"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: theforceengine
 msgctxt "game_options"
@@ -14064,11 +13854,7 @@ msgstr "スリープタイマー精度"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "SLOW MOTION DEATH"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "スローモーション死"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: citron
 msgctxt "game_options"
@@ -14997,11 +14783,8 @@ msgid ""
 "Skip buffer effects disables auto frameskip and renders at display output "
 "resolution."
 msgstr ""
-<<<<<<< HEAD
-=======
 "バッファエフェクトを省くと自動フレームスキップを無効にし、出力解像度で表示し"
 "ます"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: iortcw.keys, theforceengine.keys
 msgctxt "keys_files"
@@ -15294,20 +15077,12 @@ msgstr "スペイン語"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Spanish (Latin America)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "スペイン語（ラテンアメリカ）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Spanish (Spain)"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "スペイン語（スペイン）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: hatari, libretro/hatarib
 msgctxt "game_options"
@@ -15471,20 +15246,12 @@ msgstr "ステアリングホイール (ハンコン)"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Step left"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "左ステップ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Step right"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "右ステップ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: citron, rpcs3
 msgctxt "game_options"
@@ -15800,11 +15567,7 @@ msgstr "テストプレイ"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "TEXT"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テキスト"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: ppsspp
 msgctxt "game_options"
@@ -15814,20 +15577,12 @@ msgstr "テクスチャ デポスタライズ"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "TEXTURE DETAIL"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャディテール"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "TEXTURE FILTER"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャフィルタ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: citron, duckstation, dxx-rebirth, libretro/duckstation, libretro/mupen64plus-next, ...
 msgctxt "game_options"
@@ -15857,11 +15612,7 @@ msgstr "テクスチャ プリロード"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "TEXTURE QUALITY"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "テクスチャ品質"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -16056,11 +15807,7 @@ msgstr "Tandy Radio Shack Color Computer ディスクイメージ"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Thai"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "タイ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
@@ -16320,11 +16067,7 @@ msgstr ""
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Trilinear"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "トライリニア"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -16384,20 +16127,12 @@ msgstr "右ターン"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Turn left"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "左ターン"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Turn right"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "右ターン"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: libretro/melondsds
 msgctxt "game_options"
@@ -16788,11 +16523,7 @@ msgstr "上"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Up/Jump"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "上/ジャンプ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -17206,11 +16937,7 @@ msgstr "表示のみ"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "VIEW SWAYING"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "揺れる景色"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: fallout1-ce, fallout2-ce
 msgctxt "game_options"
@@ -17230,15 +16957,9 @@ msgstr "視覚的なナッジの強さ"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "VOICE"
-<<<<<<< HEAD
-msgstr ""
-
-#. TRANSLATION: bigpemu, bstone, cemu, citra, citron, ...
-=======
 msgstr "音声ボイス"
 
 #. TRANSLATION: bigpemu, bstone, cemu, citron, dolphin, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "VSYNC"
 msgstr "VSYNC(垂直同期)有効"
@@ -17331,11 +17052,7 @@ msgstr "ベトナム"
 #. TRANSLATION: shadps4
 msgctxt "game_options"
 msgid "Vietnamese"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ベトナム"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -17355,22 +17072,14 @@ msgstr "Voltmace Delta 3b ツインジョイスティック"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "Volumetric"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "体積測定"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: thextech
 msgctxt "game_options"
 msgid "Vsync"
 msgstr "VSYNC(垂直同期)"
 
-<<<<<<< HEAD
-#. TRANSLATION: citra, citron, dolphin, dolphin_triforce, duckstation, ...
-=======
 #. TRANSLATION: citron, dolphin, dolphin_triforce, duckstation, flycast, ...
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 msgctxt "game_options"
 msgid "Vulkan"
 msgstr "Vulkan"
@@ -17388,11 +17097,7 @@ msgstr "W-SU"
 #. TRANSLATION: openjk
 msgctxt "game_options"
 msgid "WALL MARKS"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "ウォールマーク"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: moonlight
 msgctxt "game_options"
@@ -17517,11 +17222,7 @@ msgstr "WRX 高解像度"
 #. TRANSLATION: openjk.keys
 msgctxt "keys_files"
 msgid "Walk forward"
-<<<<<<< HEAD
-msgstr ""
-=======
 msgstr "前に歩く"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #. TRANSLATION: dolphin_triforce
 msgctxt "game_options"
@@ -18263,129 +17964,8 @@ msgstr "黄/青"
 #~ "(ホットキー+R2でウィンドウの切替)"
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-#~ msgid "240fps"
-#~ msgstr "240fps"
-
-#~ msgctxt "game_options"
-#~ msgid "244fps"
-#~ msgstr "244fps"
-
-#~ msgctxt "game_options"
-#~ msgid "60fps (Default)"
-#~ msgstr "60fps（標準）"
-
-#~ msgctxt "game_options"
-#~ msgid "70fps"
-#~ msgstr "70fps"
-
-#~ msgctxt "game_options"
-#~ msgid "72fps"
-#~ msgstr "72fps"
-
-#~ msgctxt "game_options"
-#~ msgid "Allow mapping Future Pinball with Pad to Keyboard."
-#~ msgstr "Future Pinball をキーボードを介してパッド割当できるようにします"
-
-#~ msgctxt "keys_files"
-#~ msgid "Bring up menu"
-#~ msgstr "メニュー呼び出し"
-
-#~ msgctxt "game_options"
-#~ msgid "CONTROLLER CONFIGURATION"
-#~ msgstr "コントローラーの設定"
-
-#~ msgctxt "keys_files"
-#~ msgid "Change Camera Angle"
-#~ msgstr "カメラアングル変更"
-
-#~ msgctxt "game_options"
-#~ msgid "Choose the Dreamcast console language."
-#~ msgstr "ドリームキャストのコンソール言語を選択します"
-
-#~ msgctxt "keys_files"
-#~ msgid "Coin"
-#~ msgstr "コイン投入"
-
-#~ msgctxt "keys_files"
-#~ msgid "Configuration menu"
-#~ msgstr "設定メニュー"
-
-#~ msgctxt "keys_files"
-#~ msgid "Continue/Pause emulation"
-#~ msgstr "エミュレーションの継続/一時停止"
-
-#~ msgctxt "keys_files"
-#~ msgid "Cycle next"
-#~ msgstr "次のサイクル"
-
-#~ msgctxt "keys_files"
-#~ msgid "Cycle previous"
-#~ msgstr "前のサイクル"
-
-#~ msgctxt "keys_files"
-#~ msgid "Display the controller screen"
-#~ msgstr "コントローラー画面を表示"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Dolphin"
-#~ msgstr "Dolphinを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Dosbox-X"
-#~ msgstr "Dosbox-Xを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Drastic"
-#~ msgstr "Drasticを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Duckstation"
-#~ msgstr "DuckStation を終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Game"
-#~ msgstr "ゲームを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit Steam"
-#~ msgstr "Steamを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit emulator using SDL"
-#~ msgstr "SDL を使用してエミュレータを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit game"
-#~ msgstr "ゲームを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit running Flatpak"
-#~ msgstr "Flatpak実行を終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Exit the emulator"
-#~ msgstr "エミュレータを終了"
-
-#~ msgctxt "game_options"
-#~ msgid "FRAMERATE"
-#~ msgstr "フレームレート"
-
-#~ msgctxt "keys_files"
-#~ msgid "FastForward"
-#~ msgstr "早送り"
-
-#~ msgctxt "keys_files"
-#~ msgid "Forward Nudge"
-#~ msgstr "前ナッジ(前側を叩く)"
-
-#~ msgctxt "keys_files"
-#~ msgid "Graphics filtering on/off"
-#~ msgstr "グラフィックフィルタリングのオン/オフ"
-=======
 #~ msgid "Bottom Only"
 #~ msgstr "下画面のみ（切替不可）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #~ msgctxt "game_options"
 #~ msgid ""
@@ -18395,118 +17975,9 @@ msgstr "黄/青"
 #~ "シェーダーのコンパイル途切れを避けるために、バックグラウンド スレッドを使"
 #~ "用してシェーダーをコンパイルします。グラフィック不具合の可能性があります"
 
-#~ msgctxt "keys_files"
-#~ msgid "Menu N"
-#~ msgstr "メニュー N"
-
-#~ msgctxt "keys_files"
-#~ msgid "Menu Y"
-#~ msgstr "メニュー Y"
-
-#~ msgctxt "keys_files"
-#~ msgid "Menu escape"
-#~ msgstr "メニューから出る"
-
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-#~ msgid "N64 (Limited Hotkeys)"
-#~ msgstr "N64 (限定ホットキー)"
-
-#~ msgctxt "keys_files"
-#~ msgid "Next Disc (m3u)"
-#~ msgstr "次のディスク (m3u)"
-
-#~ msgctxt "game_options"
-#~ msgid "Not all games support all languages."
-#~ msgstr "すべてのゲームがすべての言語をサポートしているわけではありません"
-
-#~ msgctxt "keys_files"
-#~ msgid "Open Dolphin-triforce's menu"
-#~ msgstr "Dolphin-triforce メニューを開く"
-
-#~ msgctxt "keys_files"
-#~ msgid "Open DuckStation Quick Menu"
-#~ msgstr "DuckStation  クイック メニューを開く"
-
-#~ msgctxt "keys_files"
-#~ msgid "Open Load Menu"
-#~ msgstr "ロードメニューを開く"
-
-#~ msgctxt "keys_files"
-#~ msgid "Open Save Menu"
-#~ msgstr "セーブメニューを開く"
-
-#~ msgctxt "keys_files"
-#~ msgid "Plunger"
-#~ msgstr "レバーを引く"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quick Load"
-#~ msgstr "クイックロード"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quick Save"
-#~ msgstr "クイックセーブ"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quick load"
-#~ msgstr "クイックロード"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quick save"
-#~ msgstr "クイックセーブ"
-
-#~ msgctxt "keys_files"
-#~ msgid "QuickMenu"
-#~ msgstr "クイックメニュー"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quit the application"
-#~ msgstr "アプリケーションを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Quits the current level"
-#~ msgstr "現在のレベルを終了"
-
-#~ msgctxt "keys_files"
-#~ msgid "Reset the application"
-#~ msgstr "アプリケーションをリセット"
-
-#~ msgctxt "keys_files"
-#~ msgid "Reset the table, sometimes required for PinMame"
-#~ msgstr "リセット (PinMame)"
-
-#~ msgctxt "keys_files"
-#~ msgid "Restart Emulation"
-#~ msgstr "エミュレーションを再開"
-
-#~ msgctxt "keys_files"
-#~ msgid "Restart Game"
-#~ msgstr "ゲームを再開"
-
-#~ msgctxt "keys_files"
-#~ msgid "Right Flipper"
-#~ msgstr "右 フリッパー"
-
-#~ msgctxt "keys_files"
-#~ msgid "Right Magna Save"
-#~ msgstr "magnasave ボタン 右"
-
-#~ msgctxt "keys_files"
-#~ msgid "Right Nudge"
-#~ msgstr "右ナッジ(右側を叩く)"
-
-#~ msgctxt "keys_files"
-#~ msgid "Save State Slot 1"
-#~ msgstr "ステートセーブ - スロット 1"
-
-#~ msgctxt "keys_files"
-#~ msgid "Service menu"
-#~ msgstr "サービスメニュー"
-=======
 #~ msgid "DISK SHADER CACHE"
 #~ msgstr "ディスクシェーダーキャッシュ"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #~ msgctxt "game_options"
 #~ msgid "ENABLE ASYNC SHADER COMPILATION"
@@ -18517,20 +17988,8 @@ msgstr "黄/青"
 #~ msgstr "フレーム制限"
 
 #~ msgctxt "game_options"
-<<<<<<< HEAD
-#~ msgid ""
-#~ "Skip buffer disables auto frameskip and renders at display output "
-#~ "resolution."
-#~ msgstr ""
-#~ "スキップバッファは自動フレームスキップを無効にし、出力解像度で表示します"
-
-#~ msgctxt "keys_files"
-#~ msgid "Slot +"
-#~ msgstr "スロット +"
-=======
 #~ msgid "Hybrid Screen Bottom"
 #~ msgstr "ハイブリッド (上下＋大下)"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #~ msgctxt "game_options"
 #~ msgid "Hybrid Screen Top"
@@ -18568,43 +18027,15 @@ msgstr "黄/青"
 #~ msgid "Right/Left"
 #~ msgstr "右(上画面) / 左(下画面)"
 
-<<<<<<< HEAD
-#~ msgctxt "keys_files"
-#~ msgid "Zoon in"
-#~ msgstr "拡大"
-
-#~ msgctxt "keys_files"
-#~ msgid "exit game"
-#~ msgstr "ゲームを終了"
-=======
 #~ msgctxt "game_options"
 #~ msgid "Separate Windows"
 #~ msgstr "１画面（切替可能）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
 
 #~ msgctxt "game_options"
 #~ msgid "The New 3DS has a faster processor, ZL/ZR buttons and a C-stick."
 #~ msgstr ""
 #~ "New 3DSには、より高速なプロセッサ、ZL/ZR ボタン、Cスティックがあります"
 
-<<<<<<< HEAD
-#~ msgctxt "keys_files"
-#~ msgid "quick save"
-#~ msgstr "クイックセーブ"
-
-#~ msgctxt "keys_files"
-#~ msgid "quickload"
-#~ msgstr "クイックロード"
-
-#~ msgctxt "keys_files"
-#~ msgid "quicksave"
-#~ msgstr "クイックセーブ"
-
-#~ msgctxt "keys_files"
-#~ msgid "screenshot"
-#~ msgstr "スクリーンショット"
-=======
 #~ msgctxt "game_options"
 #~ msgid "Top Only"
 #~ msgstr "上画面のみ（切替不可）"
->>>>>>> bc92dd34cd0d9d5f0f3f45b464ecee53847e14b6
